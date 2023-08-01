@@ -1,2 +1,2 @@
 # Fish-market
-ML model for fish market
+A machine learning classification model used to classify species of fishes
